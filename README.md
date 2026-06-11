@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ameerul Mujahidin 👋
 
-<!--
-**ameertechy/ameertechy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 IT Infrastructure / Systems Engineer (7+ years) → moving into **DevOps**
+📚 Currently doing **#90DaysOfDevOps** — learning in public, daily
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on
+- [90DaysOfDevOps](https://github.com/ameertechy/90DaysOfDevOps) — daily notes + labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools
+- **Comfortable:** Linux, troubleshooting, ITSM workflows
+- **Learning:** Git, Shell, Python, GitHub CLI
+- **Next:** Docker, Kubernetes, CI/CD, AWS
+
+## 📫 Reach me
+- LinkedIn: linkedin.com/in/ameerul-mujahidin
