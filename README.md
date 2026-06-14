@@ -23,8 +23,8 @@ I'm **not a DevOps expert yet — and not a fresher either.** Somewhere in betwe
 
 ```yaml
 name: Ameerul Mujahidin
-role: IT Infra / Systems Engineer → DevOps (in progress)
-background: 7+ yrs IT support/infrastructure (mostly Windows)
+role: Systems Engineer → DevOps (in progress)
+background: 7+ yrs IT support / infrastructure (mostly Windows)
 currently: "#90DaysOfDevOps — daily notes + labs"
 mindset: learning in public, honest about what I don't know yet
 goal: land a DevOps / Cloud / SRE role
@@ -80,8 +80,6 @@ goal: land a DevOps / Cloud / SRE role
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ameertechy&theme=tokyonight&hide_border=true" alt="github streak" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameertechy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=ameertechy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ameertechy&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 
