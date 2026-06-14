@@ -23,8 +23,8 @@ I'm **not a DevOps expert yet — and not a fresher either.** Somewhere in betwe
 
 ```yaml
 name: Ameerul Mujahidin
-role: Systems Engineer → DevOps (in progress)
-background: 7+ yrs IT support / infrastructure (mostly Windows)
+role: IT Infra / Systems Engineer → DevOps (in progress)
+background: 7+ yrs IT support/infrastructure (mostly Windows)
 currently: "#90DaysOfDevOps — daily notes + labs"
 mindset: learning in public, honest about what I don't know yet
 goal: land a DevOps / Cloud / SRE role
